@@ -11,6 +11,10 @@
 * opacity
 * display-inline
 
+## Usage
+
+Double click on the .tmbundle file and it'll install into TextMate.
+
 ## Contributing
 
 If you have a suggestion for a new feature, please fork away, add your snippet and drop me a line about it. I'll then push it back into the main repository.
