@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>description</key>
+	<string>A set of CSS3 Extensions to the default CSS Bundle</string>
+	<key>contactEmailRot13</key>
+	<string>avpxpuneygba91@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Nick Charlton</string>
+	<key>name</key>
+	<string>CSS3</string>
+	<key>ordering</key>
+	<array>
+		<string>EA656B32-02C7-456C-A903-CDD4D782C94B</string>
+		<string>FA0D7753-3D37-4EB6-A2FC-600B440C03A6</string>
+		<string>D7CE298F-A7DD-4A97-BA5D-BA3CC8E6FB6C</string>
+		<string>FEB1B65B-DB09-4E7B-A835-4C0C97CE7BA0</string>
+		<string>CC108AF2-C7AA-4005-862F-B386553FBB89</string>
+		<string>30132D48-7AC5-4F76-9647-4A7E6F1ACD89</string>
+		<string>21B0267F-1448-4490-91B4-D25E66D5D595</string>
+		<string>7F254AAA-1538-4D9D-B1D9-2D8F42395773</string>
+	</array>
+	<key>uuid</key>
+	<string>3A6F6BAB-AA03-47A0-9A00-0ACCF6E13412</string>
+</dict>
+</plist>
